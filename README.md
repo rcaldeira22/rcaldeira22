@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 ### Olá! Eu sou a Rosane Caldeira.
-[![Redes Sociais](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org)]
+[![Linkedin](ttps://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
